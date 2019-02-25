@@ -1,2 +1,3 @@
 # Weather-Station
-Weather station that logs weather data and sends them to a ThingSpeak website
+This is a weather station that logs temperature, pressure and light using the ESP8266.
+The data is recorded and sent to a ThingSpeak server where it is logged.
